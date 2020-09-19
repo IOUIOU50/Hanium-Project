@@ -1,0 +1,142 @@
+{
+    "1": {
+        "title": "조건문과 반복 익히기",
+        "answer": {
+            "num1": "i+1",
+            "num2": "SUM+i",
+            "num3": "1",
+            "num4": "100",
+            "num5": "SUM"
+        }
+    },
+    "2": {
+        "title": "순환구조 이해하기",
+        "answer": {
+            "num1": "0",
+            "num2": "1",
+            "num3": "100",
+            "num4": "1",
+            "num5": "SUM+i"
+        }
+    },
+    "3": {
+        "title": "3_title",
+        "answer": {
+            "num1": "q",
+            "num2": "w",
+            "num3": "e",
+            "num4": "r",
+            "num5": "t"
+        }
+    },
+    "4": {
+        "title": "4_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    },
+    "5": {
+        "title": "_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    },
+    "6": {
+        "title": "_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    },
+    "7": {
+        "title": "_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    },
+    "8": {
+        "title": "_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    },
+    "9": {
+        "title": "_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    },
+    "10": {
+        "title": "_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    },
+    "11": {
+        "title": "_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    },
+    "12": {
+        "title": "_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    },
+    "13": {
+        "title": "_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    },
+    "14": {
+        "title": "_title",
+        "answer": {
+            "num1": "",
+            "num2": "",
+            "num3": "",
+            "num4": "",
+            "num5": ""
+        }
+    }
+}
